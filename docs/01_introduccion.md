@@ -5,7 +5,7 @@
 **Diseño de la infraestructura informática para el spa canino DogRelax**
 ## 1.2. Contexto
 
-DogRelax es un pequeño centro de bienestar y spa canino situado en Talavera de la Reina. El negocio cuenta con dos estilistas y cuatro auxiliares y ofrece diferentes servicios destinados al cuidado y bienestar de los perros, como corte y peinado, tratamientos específicos para el pelo, corte de uñas y masajes.
+DogRelax es un pequeño centro especializado en bienestar, estética y cuidado canino situado en Talavera de la Reina. El negocio cuenta con dos estilistas y cuatro auxiliares y ofrece diferentes servicios destinados al cuidado y bienestar de los perros, como corte y peinado, tratamientos específicos para el pelo, corte de uñas y masajes.
 
 Para desarrollar su actividad, DogRelax necesita gestionar información relacionada con sus clientes y sus mascotas, las citas, los servicios y tratamientos realizados y los cobros.
 ## 1.3. Problemática o necesidad
